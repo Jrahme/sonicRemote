@@ -1,0 +1,1 @@
+Some code, and a schematic for a teensy board to use this remote controle (http://www.thinkgeek.com/product/ee4a/) to act as a VLC media remote.
